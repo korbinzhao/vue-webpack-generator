@@ -17,6 +17,9 @@
 </template>
 
 <script>
+
+const a = 'b';
+
 export default {
   name: 'App',
   created(){
